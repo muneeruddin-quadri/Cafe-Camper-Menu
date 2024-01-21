@@ -1,2 +1,2 @@
 # Cafe-Camper-Menu
-It's a project of cafe menu in html and css
+It's a project of cafe menu made with html and css
